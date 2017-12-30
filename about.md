@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-Ohad Cohen | Software Developer
+Ohad Cohen - Software Developer
 
 Software developer, focused on security & accessibility.
 
@@ -16,7 +16,15 @@ I like to see, understand and improve the way system parts communicate and works
 
 ### Work History
 
+## 2017 - current: [A-muse](http://amusetech.co/) - All in One Software Developer & Co-founder
+A-muse builds musical therapy solutions and musical creation tools for disabled.
+- Working with CV algorythms
+- Game development
+- Embedded software
+- Music tools
+
 ## 2015 - 2017: [Netspark LTD](https://www.netsparkmobile.com/) - Senior Software Developer.
+Netspark is a web filtering tool.
 - Algorithms for image analysis.
 - Research new systems for fitting solutions.
 - reversing software and protocols.
@@ -31,7 +39,8 @@ Projects I was involved in:
 - Biking prosthesis.
 - Technological adviser for another projects.
 
-2015: [Hebrew University of Jerusalem](http://www.huji.ac.il/) - Teaching assistant & course exercises writer (C/C++).
+### 2015: [Hebrew University of Jerusalem](http://www.huji.ac.il/)
+Teaching assistant & course exercises writer (C/C++).
 
 ## other and open source projects:
 - Web Roulette - Random Web Content Deliverer - an android app for delivering random (and hopefully interesting) content from the web. The project was built during [Keep it Simple hackathon](https://www.facebook.com/kishackathon/) and is not maintained any more and some services it depends on got closed or changed. ([download from google play](https://play.google.com/store/apps/details?id=simplers.webroulette) - [Source](https://github.com/ohadcn/WebRoulette))
