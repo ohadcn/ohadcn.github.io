@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  playing with whatsapp api  
-published: false
 ---
 
 [just open whatsapp](whatsapp://chat)
