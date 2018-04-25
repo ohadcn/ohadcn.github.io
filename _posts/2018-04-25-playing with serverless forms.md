@@ -3,7 +3,7 @@ layout: post
 title:  playing with serverless forms  
 ---
 
-<form method="post" action="http://www.example.org/" id="example-form-2">
+<form method="post" action="https://www.example.org/" id="example-form-2">
    <p>
        <label for="example-name"><b>Name:</b></label> <input type="text" name="name" id="example-name" placeholder="Please fill in your name" />
    </p>
@@ -26,7 +26,7 @@ title:  playing with serverless forms
 var _leadclient_id = "lc__oUDocZZeDlgM_ch";
 /* ]]> */
 </script>
-<script type='text/javascript' src='http://demo.leadclient.net/leadclient.js'></script>
+<script type='text/javascript' src='https://demo.leadclient.net/leadclient.js'></script>
 <script type="text/javascript">
 $(document).ready(function() {
    $("#example-form-2").on('submit', function(event) {
