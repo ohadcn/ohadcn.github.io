@@ -21,7 +21,12 @@ title:  playing with serverless forms
    </p>
 </form>
 
-
+<script type="text/javascript">
+/* <![CDATA[ */
+var _leadclient_id = "lc__oUDocZZeDlgM_ch";
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://demo.leadclient.net/leadclient.js'></script>
 <script type="text/javascript">
 $(document).ready(function() {
    $("#example-form-2").on('submit', function(event) {
