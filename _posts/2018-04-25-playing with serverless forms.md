@@ -26,6 +26,7 @@ title:  playing with serverless forms
 var _leadclient_id = "lc__oUDocZZeDlgM_ch";
 /* ]]> */
 </script>
+<script src="https://code.jquery.com/jquery-latest.min.js"></script>
 <script type='text/javascript' src='https://demo.leadclient.net/leadclient.js'></script>
 <script type="text/javascript">
 $(document).ready(function() {
