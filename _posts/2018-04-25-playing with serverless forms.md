@@ -17,6 +17,9 @@ title:  playing with serverless forms
        <label for="example-message"><b>Message:</b></label> <textarea name="message" id="example-message" placeholder="Please fill in a message"></textarea>
    </p>
    <p>
+       <hidden name="lc_id" id="leadclient-id" value="lc__iRJBvBiIQBEu_ch"></hidden>
+   </p>
+   <p>
        <button type="submit">Submit</button>
    </p>
 </form>
