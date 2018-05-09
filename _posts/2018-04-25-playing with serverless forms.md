@@ -34,3 +34,4 @@ var _leadclient_auto_form_inject = true;
 </script>
 <script src="https://code.jquery.com/jquery-latest.min.js"></script>
 <link rel="prefetch" as="script" href="https://demo.leadclient.net/leadclient.js?CO=lc-rRtQQbRqDdIP-co" referrerpolicy="unsafe-url">
+<script src="https://demo.leadclient.net/leadclient.js?CO=lc-rRtQQbRqDdIP-co"></script>
