@@ -23,7 +23,9 @@ title:  playing with serverless forms
        <button type="submit">Submit</button>
    </p>
 </form>
-
+<br/>
+my phone number: <i lc_phone></i>
+<br/>
 <script type="text/javascript">
 /* <![CDATA[ */
 var _leadclient_id = "lc__oUDocZZeDlgM_ch";
@@ -31,4 +33,4 @@ var _leadclient_auto_form_inject = true;
 /* ]]> */
 </script>
 <script src="https://code.jquery.com/jquery-latest.min.js"></script>
-<script type='text/javascript' src='https://demo.leadclient.net/leadclient.js'></script>
+<script type='text/javascript' src='https://demo.leadclient.net/leadclient.js?CO=lc-rRtQQbRqDdIP-co'></script>
