@@ -26,9 +26,3 @@ title:  playing with serverless forms
 <br/>
 my phone number: <i lc_phone></i>
 <br/>
-<script type="text/javascript">
-/* <![CDATA[ */
-var _leadclient_id = "lc__oUDocZZeDlgM_ch";
-var _leadclient_auto_form_inject = true;
-/* ]]> */
-</script>
