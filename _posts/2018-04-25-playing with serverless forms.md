@@ -27,5 +27,5 @@ title:  playing with serverless forms
    </p>
 </form>
 <br/>
-my phone number: <i lc_phone></i>
+<a href="tel:972529098869,88" lc_phone>my phone number:+(972)52-9098869</a>
 <br/>
