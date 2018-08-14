@@ -6,7 +6,9 @@ permalink: /about/
 
 Ohad Cohen - Software Developer
 
-Software developer, focused on security, accessibility & blockchain.
+Software developer, focused on security & accessibility.
+
+Interested in IOT & blockchain.
 
 ### More Information
 
@@ -47,8 +49,8 @@ Projects I was involved in:
 - Technological adviser for another projects.
 
 ### 2015: [Hebrew University of Jerusalem](http://www.huji.ac.il/)
-Teaching assistant & course exercises writer (C/C++).
-Electrical and Computer Engineering B.Sc. (specializing in optoelectronics)
+- Teaching assistant & course exercises writer (C/C++).
+- Studied Electrical and Computer Engineering B.Sc. (specializing in optoelectronics).
 
 ## other and open source projects:
 - Web Roulette - Random Web Content Deliverer - an android app for delivering random (and hopefully interesting) content from the web. The project was built during [Keep it Simple hackathon](https://www.facebook.com/kishackathon/) and is not maintained any more and some services it depends on got closed or changed. ([download from google play](https://play.google.com/store/apps/details?id=simplers.webroulette) - [Source](https://github.com/ohadcn/WebRoulette))
