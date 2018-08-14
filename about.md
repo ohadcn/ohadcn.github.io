@@ -6,7 +6,7 @@ permalink: /about/
 
 Ohad Cohen - Software Developer
 
-Software developer, focused on security & accessibility.
+Software developer, focused on security, accessibility & blockchain.
 
 ### More Information
 
@@ -14,9 +14,16 @@ I'm a software developer with deep understanding of systems and processes (opera
 
 I like to see, understand and improve the way system parts communicate and works, I do believe that a good project partitioning has a big impact on it’s ability to scale, to be integrated with another projects and reused.
 
+Strong background in Bitcoin / blockchain systems and network security.
+
 ### Work History
 
-## 2017 - current: [A-muse](http://amusetech.co/) - All in One Software Developer & Co-founder
+## 2018 - Current: [Lead Client](https://leadclient.co.il/) - Web (Full Stack) Developer (Part time)
+Lead Client managed phone leads for marketing campaigns and others.
+- Web development - PHP, MySql, jQuery
+- Wordpress addones
+
+## 2017 - 2018: [A-muse](http://amusetech.co/) - All in One Software Developer & Co-founder
 A-muse builds musical therapy solutions and musical creation tools for disabled.
 - Working with CV algorythms
 - Game development
@@ -41,6 +48,7 @@ Projects I was involved in:
 
 ### 2015: [Hebrew University of Jerusalem](http://www.huji.ac.il/)
 Teaching assistant & course exercises writer (C/C++).
+Electrical and Computer Engineering B.Sc. (specializing in optoelectronics)
 
 ## other and open source projects:
 - Web Roulette - Random Web Content Deliverer - an android app for delivering random (and hopefully interesting) content from the web. The project was built during [Keep it Simple hackathon](https://www.facebook.com/kishackathon/) and is not maintained any more and some services it depends on got closed or changed. ([download from google play](https://play.google.com/store/apps/details?id=simplers.webroulette) - [Source](https://github.com/ohadcn/WebRoulette))
