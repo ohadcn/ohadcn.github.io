@@ -20,6 +20,11 @@ Strong background in Bitcoin / blockchain systems and network security.
 
 ### Work History
 
+## 2018 - Current: [Net Ninjas](https://www.netninjas.io/) - CTO & CoFounder
+Net Ninjas is a startup building a decentralized cloud platform.
+- Development leader
+- Android, IOS, and web (backend, Flask) developer.
+
 ## 2018 - Current: [Lead Client](https://leadclient.co.il/) - Web (Full Stack) Developer (Part time)
 Lead Client managed phone leads for marketing campaigns and others.
 - Web development - PHP, MySql, jQuery
