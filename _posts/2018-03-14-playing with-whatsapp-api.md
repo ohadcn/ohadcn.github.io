@@ -28,7 +28,7 @@ D. [apiwha](http://apiwha.com/) seems to have a public api to integrate whatsapp
 
 E. Github is full with whatsapp [api](https://github.com/tgalal/yowsup), [bots](https://github.com/gojigeje/wasapbot) and tools, most of them aren't maintained and can't be used (blocked by whatsapp).
 
-F. [whatsapp web client](https://github.com/Enrico204/Whatsapp-Desktop)
+F. [whatsapp web client](https://github.com/Enrico204/Whatsapp-Desktop/tree/e246043625d4db26ce705cf10894a6ff3336474b)
 
 G. projects that seems maintained:
 
