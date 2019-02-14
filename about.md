@@ -30,6 +30,17 @@ Lead Client managed phone leads and virtual numbers for marketing campaigns and 
 - Web development - PHP, MySql, jQuery.
 - Wordpress addons
 
+## 2018 - Current: Freelance Developer
+Freelance software developer - fullstack, and various stuff.
+- IOT (Arduino / ESP + Simple sensors and circuits)
+- Android (Java/Kotlin)
+- IOS (Swift)
+- Web (Nodejs/PHP + Mongo/MySql + Angular/jQuery)
+- Hybrid apps (costum platform + injected JS)
+- Blockchain apps (Bitcoin/Ethreum)
+- Consulting: Blockchain, cyber, cloud, server/client architecture.
+
+
 ## 2017 - 2018: [A-muse](http://amusetech.co/) - All in One Software Developer & Co-founder
 A-muse builds musical therapy solutions and musical creation tools for disabled.
 - Working with CV algorythms
