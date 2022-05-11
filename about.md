@@ -8,7 +8,7 @@ Ohad Cohen - Software Developer
 
 Software developer, focused on security & accessibility.
 
-Interested in IOT & blockchain.
+Interested in Chatbots, Blockchain and Cyber.
 
 ### More Information
 
@@ -16,30 +16,38 @@ I'm a software developer with deep understanding of systems and processes (opera
 
 I like to see, understand and improve the way system parts communicate and works, I do believe that a good project partitioning has a big impact on it’s ability to scale, to be integrated with another projects and reused.
 
-Strong background in Bitcoin / blockchain systems and network security.
+Strong background in Bitcoin / blockchain systems, network security and Eye tracking technologies.
 
 ### Work History
 
-## 2018 - Current: [Net Ninjas](https://www.netninjas.io/) - CTO & CoFounder
-Net Ninjas is a startup building a decentralized cloud platform.
-- Development leader
-- Android, IOS, and web (backend, Flask) developer.
+## 2018 - Current: Freelance Developer
+Freelance software developer - fullstack, and various stuff.
+- Web (Nodejs/PHP + Mongo/MySql + Angular/jQuery/Vue)
+- Android (Java/Kotlin)
+- IOS (Swift)
+- PWA / Hybrid apps (costum platform + injected JS)
+- IOT (Arduino / ESP + sensors and circuits)
+- Blockchain apps (Bitcoin/Ethreum)
+- Unity3d Game development
+- CHatbots
+- Eye tracking technologies and data analysis
+- Consulting: Blockchain, cyber, cloud, server/client architecture, git.
+
+## 2021 - Current: [Eyeviation](https://www.eyeviation.com/) - Senior Software Developer (Part time)
+Eyeviation uses Eye Tracking and other technologies to enable cognitive aware adaptive training.
+- Realtime eye tracking data analysis.
+- Web development
+- Unity3d Development
 
 ## 2018 - Current: [Lead Client](https://leadclient.co.il/) - Web (Full Stack) Developer (Part time)
 Lead Client managed phone leads and virtual numbers for marketing campaigns and others.
 - Web development - PHP, MySql, jQuery.
 - Wordpress addons
 
-## 2018 - Current: Freelance Developer
-Freelance software developer - fullstack, and various stuff.
-- IOT (Arduino / ESP + Simple sensors and circuits)
-- Android (Java/Kotlin)
-- IOS (Swift)
-- Web (Nodejs/PHP + Mongo/MySql + Angular/jQuery)
-- Hybrid apps (costum platform + injected JS)
-- Blockchain apps (Bitcoin/Ethreum)
-- Consulting: Blockchain, cyber, cloud, server/client architecture.
-
+## 2018 - 2019: [Net Ninjas](https://www.netninjas.io/) - CTO & CoFounder
+Net Ninjas is a startup building a decentralized cloud platform.
+- Development leader
+- Android, IOS, and web (backend, Flask) developer.
 
 ## 2017 - 2018: [A-muse](http://amusetech.co/) - All in One Software Developer & Co-founder
 A-muse builds musical therapy solutions and musical creation tools for disabled.
