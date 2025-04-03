@@ -22,24 +22,26 @@ Strong background in Bitcoin / blockchain systems, network security and Eye trac
 
 ## 2018 - Current: Freelance Developer
 Freelance software developer - fullstack, and various stuff.
-- Web (Nodejs/PHP + Mongo/MySql + Angular/jQuery/Vue)
+- Web (Nodejs/PHP + Mongo/MySql + jQuery/Vue)
 - Android (Java/Kotlin)
-- IOS (Swift)
-- PWA / Hybrid apps (costum platform + injected JS)
 - IOT (Arduino / ESP + sensors and circuits)
-- Blockchain apps (Bitcoin/Ethreum)
 - Unity3d Game development
 - CHatbots
 - Eye tracking technologies and data analysis
-- Consulting: Blockchain, cyber, cloud, server/client architecture, git.
+- Consulting: Blockchain, cyber, cloud, server/client/network architecture, git.
 
-## 2021 - Current: [Eyeviation](https://www.eyeviation.com/) - Senior Software Developer (Part time)
+## 2022 - Current: [Chatgo](https://chatgo.live/) - Senior Software Developer (Freelance)
+Chatgo is custumers engagment platform.
+- Developing server side tools (nodejs / php / mongodb)
+- Flutter app development
+
+## 2021 - 2023: [Eyeviation](https://www.eyeviation.com/) - Senior Software Developer (Freelance)
 Eyeviation uses Eye Tracking and other technologies to enable cognitive aware adaptive training.
 - Realtime eye tracking data analysis.
 - Web development
 - Unity3d Development
 
-## 2018 - Current: [Lead Client](https://leadclient.co.il/) - Web (Full Stack) Developer (Part time)
+## 2018 - Current: [Lead Client](https://leadclient.co.il/) - Web (Full Stack) Developer (Freelance)
 Lead Client managed phone leads and virtual numbers for marketing campaigns and others.
 - Web development - PHP, MySql, jQuery.
 - Wordpress addons
@@ -75,11 +77,6 @@ Projects I was involved in:
 ### 2012 - 2015: [Hebrew University of Jerusalem](http://www.huji.ac.il/)
 - Student for Electrical and Computer Engineering specializing in optoelectronics B.Sc (GPA: 87).
 - C/C++ Teaching assistant & course exercises writer (2015).
-
-## other and open source projects:
-- Web Roulette - Random Web Content Deliverer - an android app for delivering random (and hopefully interesting) content from the web. The project was built during [Keep it Simple hackathon](https://www.facebook.com/kishackathon/) and is not maintained any more and some services it depends on got closed or changed. ([download from google play](https://play.google.com/store/apps/details?id=simplers.webroulette) - [Source](https://github.com/ohadcn/WebRoulette))
-- SNBOpen - open Samsung notebook files on PC ([source](https://github.com/ohadcn/snbopen))
-- WhatsApp Auto Voice Play - automatically play whatsapp voice messages on android, made for the blinds who can't get the buttons by themselves. ([source](https://github.com/ohadcn/WhatsAppAutoVoicePlay))
 
 ### Contact me
 
